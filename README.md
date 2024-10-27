@@ -10,5 +10,5 @@ Ask,
 Baidu
 და სხვა...
 <br><br>
-`ავტორი R3D`
+`ავტორი G.zirakashvili`
 
